@@ -18,7 +18,6 @@ He utilizado varios lenguajes no mencionados, pero prefiero trabajar de forma na
 </br>
 Repasar, mejorar, mantener y aprender, son los 4 "pasos" en los que se debe ser constante.
 </br>
-</br>
  ## Fuentes de aprendizaje
  Creo que debo mencionar las fuentes de donde iré adquiriendo nuevos conocimientos.
  </br>
