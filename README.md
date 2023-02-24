@@ -30,6 +30,7 @@ Repasar, mejorar, mantener y aprender, son los 4 "pasos" en los que se debe ser 
 ## Titulo 2
 ### Titulo 3
 
+emojos: https://github-emoji-picker.rickstaa.dev/
 
 Here are some ideas to get you started:
 
