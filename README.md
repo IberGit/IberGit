@@ -12,7 +12,6 @@ Actualmente voy a dedicarme a aprender SwiftUI, motivo por el cual aprovecho de 
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 </br>
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 </br>
 He utilizado varios lenguajes no mencionados, pero prefiero trabajar de forma nativa en el mundo de Android/Apple. :man_technologist:
 </br>
