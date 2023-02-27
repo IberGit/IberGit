@@ -15,7 +15,7 @@ Actualmente voy a dedicarme a aprender SwiftUI, motivo por el cual aprovecho de 
 </br>
 He utilizado varios lenguajes no mencionados, pero prefiero trabajar de forma nativa en el mundo de Android/Apple. :man_technologist:
 </br>
-Repasar, mejorar, mantener y aprender, son los 4 "pasos" en los que se debe ser constante.
+Aprender, repasar, mejorar y mantener, son los 4 "pasos" en los que se debe ser constante.
 </br>
  ## Fuentes de aprendizaje
  Creo que debo mencionar las fuentes de donde iré adquiriendo nuevos conocimientos.
