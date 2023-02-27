@@ -22,7 +22,7 @@ Aprender, repasar, mejorar y mantener, son los 4 "pasos" en los que se debe ser 
  </br>
  MoureDev: https://moure.dev/
  </br>
- Swift Beta: https://twitter.com/SwiftBeta_
+ Swift Beta: https://www.youtube.com/swiftbeta
 <!--
 **IberGit/IberGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Titulo 1
