@@ -13,7 +13,7 @@ Actualmente voy a dedicarme a aprender SwiftUI, motivo por el cual aprovecho de 
 </br>
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 </br>
-He utilizado varios lenguajes no mencionados, pero prefiero trabajar de forma nativa en el mundo de Android/Apple. :man_technologist:
+He utilizado varios lenguajes no mencionados, pero prefiero trabajar de forma nativa en el mundo de Android/Apple.
 </br>
 Aprender, repasar, mejorar y mantener, son los 4 "pasos" en los que se debe ser constante.
 </br>
@@ -23,22 +23,5 @@ Aprender, repasar, mejorar y mantener, son los 4 "pasos" en los que se debe ser 
  MoureDev: https://moure.dev/
  </br>
  Swift Beta: https://www.youtube.com/swiftbeta
-<!--
-**IberGit/IberGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# Titulo 1
-## Titulo 2
-### Titulo 3
-
-emojos: https://github-emoji-picker.rickstaa.dev/
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ </br>
+ MiduDev: https://midu.dev/
