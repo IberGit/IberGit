@@ -1,8 +1,12 @@
 # Bienvenido a IberGit :vulcan_salute:
 ### Me llamo Damián y soy desarrollador de aplicaciones multiplataforma junior.
-Me gusta aprender cosas nuevas, actualmente estoy en el mundillo de React Native. Me encanta componetizar.
-Si surge la necesidad de usar algún paquete, siempre que sea posible, por mis conocimientos, termino creando mi propio componente.
-He empezado a utilizar Figma para aprender algo de diseño.
+Me gusta aprender cosas nuevas, actualmente, debido a mi trabajo, estoy en el mundillo de React Native.
+</br>
+Me encanta componetizar.
+Si surge la necesidad de usar algún paquete, siempre que sea posible, y segun avanzan mis conocimientos, termino creando mi propio componente.
+</br>
+He empezado a utilizar Figma para aprender algo de diseño. El entorno web no ha sido lo mio, pero quiero ver qué tal se me da Astro.
+</br>
 
 ## Tecnologías:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)
@@ -18,18 +22,22 @@ He empezado a utilizar Figma para aprender algo de diseño.
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 </br>
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+<!---
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)
-</br>
+-->
 He utilizado varios lenguajes no mencionados.
+</br>
 </br>
 Aprender, repasar, mejorar y mantener, son los 4 "pasos" en los que se debe ser constante.
 </br>
+Aunque bueno, ... debido a mi asperger, si pasa un tiempo, puedo requerir refrescarlo de nuevo.
+</br>
 ## Fuentes de aprendizaje
-Creo que debo mencionar las fuentes de donde iré adquiriendo nuevos conocimientos.
+Algunas referencias de donde he ido e iré adquiriendo nuevos conocimientos.
 </br>
 MoureDev: https://moure.dev/
 </br>
-Swift Beta: https://www.youtube.com/swiftbeta
-</br>
 MiduDev: https://midu.dev/
+</br>
+Swift Beta: https://www.youtube.com/swiftbeta
