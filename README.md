@@ -1,6 +1,7 @@
 # Bienvenido a IberGit :vulcan_salute:
-### Mi nombre es Damián y soy desarrollador de aplicaciones multiplataforma junior.
-Actualmente voy a dedicarme a aprender SwiftUI, motivo por el cual aprovecho de una vez a crear una cuenta en Github, algo que debería saber utilizar cualquier desarollador (y más, a día de hoy).
+### Mi nombre es Damián y soy desarrollador de aplicaciones multiplataforma.
+Me gusta aprender cosas nuevas, actualmente estoy en el mundillo de React Native. Me encanta componetizar.
+Si surge la necesidad de usar algún paquete, siempre que sea posible por mis conocimientos, termino creando mi propio componente.
 
 ## Tecnologías:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
@@ -13,7 +14,7 @@ Actualmente voy a dedicarme a aprender SwiftUI, motivo por el cual aprovecho de 
 </br>
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 </br>
-He utilizado varios lenguajes no mencionados, pero prefiero trabajar de forma nativa en el mundo de Android/Apple.
+He utilizado varios lenguajes no mencionados.
 </br>
 Aprender, repasar, mejorar y mantener, son los 4 "pasos" en los que se debe ser constante.
 </br>
