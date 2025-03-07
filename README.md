@@ -3,7 +3,7 @@
 Si he de destacar algo, diría que soy autodidacta y me gusta dedicar tiempo a aprender cosas nuevas. Actualmente, debido a mi trabajo, estoy en el mundillo de React Native.
 Me encanta componetizar. Si surge la necesidad de usar algún paquete, siempre que sea posible, y segun avanzan mis conocimientos, termino creando mi propio componente.
 </br></br>
-Aprender, mejorar, repasar y mantener, son los 4 "pasos" en los que se debe ser constante. Aunque bueno, ... debido a mi asperger, si pasa un tiempo, puedo requerir refrescarlo de nuevo.
+Aprender, mejorar, repasar y mantener, son los 4 "pasos" en los que se debe ser constante. Aunque bueno, ... debido a mi asperger, si pasa un tiempo sin usar una "tecnología", puedo requerir refrescar las bases de nuevo.
 </br></br>
 Gracias a la asociación de [APNABI](https://www.apnabi.eus), desarrollé una App y fui uno de los ganadores en la [V Convocatoria de TIC TEA](https://fundacionorange.es/junto-al-autismo/convocatorias-de-proyectos/convocatoria-tic-tea/), con la aplicación ["AsteFood"](https://www.apnabi.eus/astefood-aplicacion-para-el-apoyo-a-la-vida-independiente-de-las-personas-con-tea-premiada-por-la-fundacion-orange-y-autismo-espana).
 </br>
